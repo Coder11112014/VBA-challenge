@@ -21,7 +21,9 @@ Did conditional formatting that will highlight positive change in green and nega
 
 
 ![2014_result](Images/2014_screenshot.png)
+
 ![2015_result](Images/2015_screenshot.png)
+
 ![2016_result](Images/2016_screenshot.png)
 
 
