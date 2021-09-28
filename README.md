@@ -21,6 +21,14 @@ Did conditional formatting that will highlight positive change in green and nega
 
 
 The result:
-![2014] [Images\2014_screenshot.png]
-![2015] [Images\2015_screenshot.png]
-![2016] [Images\2016_screenshot.png]
+![2014_result] [Images/2014_screenshot.png]
+![2015_result] [Images/2015_screenshot.png]
+![2016_result] [Images/2016_screenshot.png]
+
+Bonus:
+
+calculated the "Greatest % increase", "Greatest % decrease" and "Greatest total volume"
+
+
+Made the appropriate adjustments to your VBA script that will allow it to run on every worksheet, i.e., every year, just by running the VBA script once.
+
