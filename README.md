@@ -26,7 +26,6 @@ Did conditional formatting that will highlight positive change in green and nega
 
 ![2016_result](Images/2016_screenshot.png)
 
-
 Bonus:
 
 calculated the "Greatest % increase", "Greatest % decrease" and "Greatest total volume"
