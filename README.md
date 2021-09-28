@@ -20,7 +20,6 @@ The total stock volume of the stock.
 Did conditional formatting that will highlight positive change in green and negative change in red.
 
 
-The result:
 ![2014_result] [Images/2014_screenshot.png]
 
 
