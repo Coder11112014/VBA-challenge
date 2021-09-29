@@ -28,8 +28,8 @@ Did conditional formatting that will highlight positive change in green and nega
 
 Bonus:
 
-calculated the "Greatest % increase", "Greatest % decrease" and "Greatest total volume"
+Calculated the "Greatest % increase", "Greatest % decrease" and "Greatest total volume"
 
 
-Made the appropriate adjustments to your VBA script that will allow it to run on every worksheet, i.e., every year, just by running the VBA script once.
+Made the appropriate adjustments to the VBA script that will allow it to run on every worksheet, i.e., every year, just by running the VBA script once.
 
